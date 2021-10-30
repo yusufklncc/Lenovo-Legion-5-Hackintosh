@@ -38,7 +38,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 - [x] macOS Big Sur 11.6.1
 - [x] macOS Big Sur 11.0.1
 
-## What are working (Almost Everything)
+# What's Working?
 
 | **Details**                                |                                    |
 | -----------------------------------  | -------- |
