@@ -13,7 +13,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.4-9cf)](https://github.com/acidanthera/OpenCorePkg)
 [![release](https://img.shields.io/badge/download-lastest%20version-blue.svg)](https://github.com/relaxewdy/Lenovo-Legion-5-Hackintosh/releases)
 
-## Screenshot
+# Screenshot
 <details>
 <summary>Big Sur</summary>
 
@@ -44,12 +44,9 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 | -----------------------------------  | -------- |
 |  Turbo boost and CPU frequency stage |  ✅  |
 |  Intel UHD Graphics 630              |  ✅  |
-|  Brightness control (Always full birghtness)                  |    |
-|  HDMI (Beacuse RTX2060)                               |    |
 |  Audio Conexant            |  ✅  |
 |  Realtek Ethernet RTL8111            |  ✅  | 
 |  Intel Wi-Fi and Bluetooth, Handoff, iMessage...         |  ✅  |
-|  Airdrop, Sidecar (Beacuse Intel Wi-Fi Doesn't Support)        |    |
 |  USB 3.0 and Type-C (with Port Map)        |  ✅  |
 |  Touchpad (14 gestures are working)   |  ✅  |
 |  Battery status   |  ✅  |
@@ -58,8 +55,12 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 |  Camera   |  ✅  |
 |  Fn shortcut keys   |  ✅  |
  
+# What's not working ⚠️
+- [x] Brightness control (Always full birghtness)
+- [x] HDMI (Beacuse RTX2060)
+- [x] Airdrop, Sidecar (Beacuse Intel Wi-Fi Doesn't Support)
 
-## What You Have to Do
+# What You Have to Do
 
 - SMBIOS Settings
 - Rename config
