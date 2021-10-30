@@ -33,6 +33,9 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 | Wi-Fi             | Intel AX201 Wi-Fi 6 (802.11ax) |
 | Audio       | Conexant                        |
 
+# Update History
+- [x] macOS 11.0.1 Beta 3
+- [x] macOS 11.0.1 RC 2
 
 ## What are working (Almost Everything)
 
