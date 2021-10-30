@@ -41,11 +41,11 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 |  Turbo boost and CPU frequency stage |  ✅  |
 |  Intel UHD Graphics 630              |  ✅  |
 |  Brightness control (Always full birghtness)                  |    |
-|  HDMI (Beacuse RTX2060                               |    |
+|  HDMI (Beacuse RTX2060)                               |    |
 |  Audio Conexant            |  ✅  |
 |  Realtek Ethernet RTL8111            |  ✅  | 
 |  Intel Wi-Fi and Bluetooth, Handoff, iMessage...         |  ✅  |
-|  Airdrop, Sidecar         |    |
+|  Airdrop, Sidecar (Beacuse Intel Wi-Fi Doesn't Support)        |    |
 |  USB 3.0 and Type-C (with Port Map)        |  ✅  |
 |  Touchpad (14 gestures are working)   |  ✅  |
 |  Battery status   |  ✅  |
