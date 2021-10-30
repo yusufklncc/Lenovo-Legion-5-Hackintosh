@@ -17,7 +17,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 <details>
 <summary>Big Sur</summary>
 
-![]()
+![](https://github.com/yusfklncc/Lenovo-Legion-5-Hackintosh/blob/main/Big%20Sur.png)
 
 </details>
 
