@@ -34,8 +34,9 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 | Audio       | Conexant                        |
 
 # Update History
-- [x] macOS 11.0.1 Beta 3
-- [x] macOS 11.0.1 RC 2
+- [x] macOS Monterey 12.0.1
+- [x] macOS Big Sur 11.6.1
+- [x] macOS Big Sur 11.0.1
 
 ## What are working (Almost Everything)
 
