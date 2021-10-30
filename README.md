@@ -31,7 +31,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 | RAM           | 16 GB 2933 MHz DDR4    |
 | Graphic Card | Intel(R) UHD Graphics 630                     |
 | Wi-Fi             | Intel AX201 Wi-Fi 6 (802.11ax) |
-| Audio       | Conexant                        |
+| Audio       | Realtek ALC 257                        |
 
 # Update History
 - [x] macOS Monterey 12.0.1
@@ -44,7 +44,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 | -----------------------------------  | -------- |
 |  Turbo boost and CPU frequency stage |  ✅  |
 |  Intel UHD Graphics 630              |  ✅  |
-|  Audio Conexant            |  ✅  |
+|  Audio Realtek ALC 257            |  ✅  |
 |  Realtek Ethernet RTL8111            |  ✅  | 
 |  Intel Wi-Fi and Bluetooth, Handoff, iMessage...         |  ✅  |
 |  USB 3.0 and Type-C (with Port Map)        |  ✅  |
