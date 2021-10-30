@@ -22,7 +22,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 </details>
 
 <!-- omit in toc -->
-## Hardware
+# Laptop's Hardware
 
 | **LENOVO** | Detail                                                  |
 | ------------------- | ------------------------------------------- |
