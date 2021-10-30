@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# <img align="left" src="https://github.com/yusfklncc/HP-EliteBook-840-G5-Hackintosh/blob/main/Apple.png" width="30px" alt="preview">macOS on Lenovo E570
+# <img align="left" src="https://github.com/yusfklncc/HP-EliteBook-840-G5-Hackintosh/blob/main/Apple.png" width="30px" alt="preview">Lenovo Legion 5 15IMH05H
 
 <h3> 
     English
