@@ -59,6 +59,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 |  Fn shortcut keys   |  ✅  | ❌
  
 # What's not working ⚠️
+| **.**                                |                                    |
 | -----------------------------------  | -------- |
 |  Brightness control (Always full birghtness) | ❌ |
 |  HDMI (Beacuse RTX2060)    | ❌ |
