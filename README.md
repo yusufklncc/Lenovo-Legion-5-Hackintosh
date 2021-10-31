@@ -32,6 +32,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 | RAM           | 16 GB 2933 MHz DDR4    |
 | Internal Graphics Card | Intel(R) UHD Graphics 630                     |
 | Wi-Fi             | Intel AX201 Wi-Fi 6 (802.11ax) |
+| Ethernet          | Realtek RTL8111            |
 | Audio       | Realtek ALC 257                        |
 
 # Update History
@@ -46,14 +47,15 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 |  Turbo boost and CPU frequency stage |  ✅  |
 |  Intel UHD Graphics 630              |  ✅  |
 |  Audio Realtek ALC 257            |  ✅  |
-|  Realtek Ethernet RTL8111            |  ✅  | 
+|  Realtek Ethernet RTL8111            |  ✅  |
 |  Intel Wi-Fi and Bluetooth, Handoff, iMessage...         |  ✅  |
 |  USB 3.0 and Type-C (with Port Map)        |  ✅  |
 |  Touchpad (14 gestures are working)   |  ✅  |
 |  Battery status   |  ✅  |
+|  Camera   |  ✅  |
 |  S3 Sleep / Wake   |  ✅  |
 |  S4 Hibernation / Wake   |  ✅  |
-|  Camera   |  ✅  |
+|  Shutdown / Reboot   |  ✅  |
 |  Fn shortcut keys   |  ✅  |
  
 # What's not working ⚠️
@@ -61,11 +63,9 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 - [x] HDMI (Beacuse RTX2060)
 - [x] Airdrop, Sidecar (Beacuse Intel Wi-Fi Doesn't Support)
 
-# What You Have to Do
-
-- SMBIOS Settings
-- Rename config
-
+# What You Have to Do ⚠️
+- [x] SMBIOS Settings
+- [x] Rename config
 
  
 With OpenCore Configurator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 16.4
