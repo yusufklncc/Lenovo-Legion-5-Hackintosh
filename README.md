@@ -41,7 +41,6 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 - [x] macOS Big Sur 11.0.1
 
 # What's Working?
-
 |                                 |                                    |
 | -----------------------------------  | -------- |
 |  Turbo boost and CPU frequency stage |  ✅  |
@@ -56,7 +55,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 |  S3 Sleep / Wake   |  ✅  |
 |  S4 Hibernation / Wake   |  ✅  |
 |  Shutdown / Reboot   |  ✅  |
-|  Fn shortcut keys   |  ✅  | ❌
+|  Fn shortcut keys   |  ✅  | 
  
 # What's not working ⚠️
 |                                 |                                    |
