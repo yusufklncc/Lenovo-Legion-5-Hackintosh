@@ -57,18 +57,18 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 |  Shutdown / Reboot   |  ✅  |
 |  Fn shortcut keys   |  ✅  | 
  
-# What's not working ❌
+# What's not working?
 |                                 |                                    |
 | -----------------------------------  | -------- |
 |  Brightness control (Always full birghtness) | ❌ |
 |  HDMI (Beacuse RTX2060)    | ❌ |
 |  Airdrop, Sidecar (Beacuse Intel Wi-Fi Doesn't Support) | ❌ |
 
-# What You Have to Do ⚠️
+# What You Have to Do 
 |                                 |                                    |
 | -----------------------------------  | -------- |
-|  SMBIOS Settings  |    |
-|  Rename config    |    |
+|  SMBIOS Settings  | ⚠️ |
+|  Rename config    | ⚠️ |
 
  
 With OpenCore Configurator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 16.4
