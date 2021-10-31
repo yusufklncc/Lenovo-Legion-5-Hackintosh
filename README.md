@@ -64,7 +64,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 |  HDMI (Beacuse RTX2060)    | ❌ |
 |  Airdrop, Sidecar (Beacuse Intel Wi-Fi Doesn't Support) | ❌ |
 
-# What You Have to Do 
+# What You Have to Do? 
 |                                 |                                    |
 | -----------------------------------  | -------- |
 |  SMBIOS Settings  | ⚠️ |
