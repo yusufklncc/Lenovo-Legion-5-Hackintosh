@@ -28,8 +28,9 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 | ------------------- | ------------------------------------------- |
 | Model Name      | Lenovo Legion 5 15IMH05H      |
 | CPU              | Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz Comet Lake             |
+| External Graphics Card              | NVIDIA GeForce RTX 2060                   |
 | RAM           | 16 GB 2933 MHz DDR4    |
-| Graphic Card | Intel(R) UHD Graphics 630                     |
+| Internal Graphics Card | Intel(R) UHD Graphics 630                     |
 | Wi-Fi             | Intel AX201 Wi-Fi 6 (802.11ax) |
 | Audio       | Realtek ALC 257                        |
 
