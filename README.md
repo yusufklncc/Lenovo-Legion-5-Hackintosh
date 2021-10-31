@@ -56,12 +56,14 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 |  S3 Sleep / Wake   |  ✅  |
 |  S4 Hibernation / Wake   |  ✅  |
 |  Shutdown / Reboot   |  ✅  |
-|  Fn shortcut keys   |  ✅  |
+|  Fn shortcut keys   |  ✅  | ❌
  
 # What's not working ⚠️
-- [x] Brightness control (Always full birghtness)
-- [x] HDMI (Beacuse RTX2060)
-- [x] Airdrop, Sidecar (Beacuse Intel Wi-Fi Doesn't Support)
+| **Details**                                |                                    |
+| -----------------------------------  | -------- |
+|  Brightness control (Always full birghtness) | ❌ |
+|  HDMI (Beacuse RTX2060)    | ❌ |
+|  Airdrop, Sidecar (Beacuse Intel Wi-Fi Doesn't Support) | ❌ |
 
 # What You Have to Do ⚠️
 - [x] SMBIOS Settings
