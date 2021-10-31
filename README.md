@@ -66,8 +66,10 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 |  Airdrop, Sidecar (Beacuse Intel Wi-Fi Doesn't Support) | ❌ |
 
 # What You Have to Do ⚠️
-- [x] SMBIOS Settings
-- [x] Rename config
+|                                 |                                    |
+| -----------------------------------  | -------- |
+|  SMBIOS Settings  |    |
+|  Rename config    |    |
 
  
 With OpenCore Configurator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 16.4
