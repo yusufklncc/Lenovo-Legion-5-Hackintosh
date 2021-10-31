@@ -42,7 +42,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 
 # What's Working?
 
-| **Details**                                |                                    |
+|                                 |                                    |
 | -----------------------------------  | -------- |
 |  Turbo boost and CPU frequency stage |  ✅  |
 |  Intel UHD Graphics 630              |  ✅  |
