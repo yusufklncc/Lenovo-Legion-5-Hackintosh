@@ -1,9 +1,5 @@
 <!-- omit in toc -->
-# <img align="left" src="https://github.com/yusfklncc/HP-EliteBook-840-G5-Hackintosh/blob/main/Apple.png" width="30px" alt="preview">Lenovo Legion 5 15IMH05H
-
-<h3> 
-    English
-</h3>
+# Lenovo Legion 5 15IMH05H
 
 <img align="right" src="https://github.com/yusfklncc/Lenovo-Legion-5-Hackintosh/blob/main/Legion5.png?raw=true" width="300px" alt="preview">
 
@@ -72,3 +68,8 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 
  
 With OpenCore Configurator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 16.4
+
+<h1 align="center"> Donate - Bağış </h1>
+<p align="center">
+<a href="https://github.com/yusfklncc/yusfklncc/blob/main/Donate%20-%20Ba%C4%9F%C4%B1%C5%9F.md">
+  <img src="https://github.com/yusfklncc/yusfklncc/blob/main/Resources/Donate.png" width="300">
