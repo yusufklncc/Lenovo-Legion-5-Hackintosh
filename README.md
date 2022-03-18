@@ -56,7 +56,7 @@ OpenCore config for Hackintosh OpenCore Lenovo Legion 5 15IMH05H.
 # What's not working?
 |                                 |                                    |
 | -----------------------------------  | -------- |
-|  Brightness control (Always full birghtness) | ❌ |
+|  Brightness control (Always full brightness) | ❌ |
 |  HDMI (Beacuse RTX2060)    | ❌ |
 |  Airdrop, Sidecar (Beacuse Intel Wi-Fi Doesn't Support) | ❌ |
 
