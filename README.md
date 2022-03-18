@@ -76,10 +76,8 @@ Airdrop, Sidecar | Beacuse Intel Wi-Fi Doesn't Support | ❌
 # What's you have to do  💻
 Type | Info | Status
 :---------|:---------|:----------
-SMBIOS Settings  | ⚠️ 
-Rename config    | ⚠️ 
- 
-- With OpenCore Configurator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 16.4
+SMBIOS Settings  | With OpenCore Configurator you should definitely set your SMBIOS settings and ROM value because the config does not contain SMBIOS information MacBook Pro 16.4. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
+Rename config    | If you install Monterey+, you can delete BrcmBluetoothInjector.kext in OC/Kexts. If you install Big Sur-, you can delete BlueToolFixup.kext in OC/Kexts. | ⚠️ 
  
 ## Credits
  - [Dortania](https://dortania.github.io) for developing OpenCore.
