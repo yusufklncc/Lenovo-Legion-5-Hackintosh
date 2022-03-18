@@ -45,9 +45,9 @@ Ethernet          | Realtek RTL8111 | ✅
 Audio       | Realtek ALC 257 | ✅
 
 # Update History
-- [x] macOS Monterey 12.0.1
-- [x] macOS Big Sur 11.6.1
-- [x] macOS Big Sur 11.0.1
+- ✅ macOS Monterey 12.0.1
+- ✅ macOS Big Sur 11.6.1
+- ✅ macOS Big Sur 11.0.1
 
 # What's working  💻
 Type | Info | Status
