@@ -8,11 +8,11 @@
 
 <p align="center">
 <a href="https://www.apple.com/macos/monterey/">
-  <img src="https://img.shields.io/badge/macOS-Monterey_v12.3-blue"/> </a>
-<a href="https://github.com/acidanthera/OpenCorePkg">
-  <img src="https://img.shields.io/badge/OpenCore-0.7.9-9cf"/> </a>
+  <img src="https://img.shields.io/badge/macOS-Monterey_v12.3-blue" width="215"/> </a>
+<a href="https://github.com/acidanthera/OpenCorePkg/releases">
+  <img src="https://img.shields.io/badge/OpenCore-0.7.9-9cf" width="155"/> </a>
 <a href="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/releases">
-  <img src="https://img.shields.io/badge/release-EFI-blue.svg"/> </a>
+  <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="115"/> </a>
 </p>
 <p align="center">
 <a href="https://t.me/yusufklncc">
