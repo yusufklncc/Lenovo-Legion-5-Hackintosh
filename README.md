@@ -22,16 +22,13 @@
 <a href="https://www.paypal.com/paypalme/sevenpay">
   <img src="https://img.shields.io/badge/-@sevenpay-2CA5E0?logo=PayPal&logoColor=red" width="140"/> </a>
 
-# Screenshots 📷
+## Screenshots 📷
 
-<details>
-<summary>Big Sur</summary>
-<p align="center">
-  <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Big%20Sur.png">
-</p>
-</details>
+
+### Big Sur</summary>
+  <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/macOS/macOS%20Big%20Sur.png">
  
-# Original Hardware  💻
+## Original Hardware  💻
 
 Type | Spec | Status
 :---------|:---------|:----------
@@ -44,12 +41,12 @@ Wi-Fi             | Intel AX201 Wi-Fi 6 (802.11ax) | ✅
 Ethernet          | Realtek RTL8111 | ✅
 Audio       | Realtek ALC 257 | ✅
 
-# Update History
+## Update History
 - ✅ macOS Monterey 12.0.1
 - ✅ macOS Big Sur 11.6.1
 - ✅ macOS Big Sur 11.0.1
 
-# What's working  💻
+## What's working  💻
 Type | Status
 :---------|:----------
 Turbo boost and CPU frequency stage |  ✅  
@@ -66,14 +63,14 @@ S4 Hibernation / Wake   |  ✅
 Shutdown / Reboot   |  ✅  
 Fn shortcut keys   |  ✅  
  
-# What's not working  💻
+## What's not working  💻
 Type | Info | Status
 :---------|:---------|:----------
 Brightness control | Brightness level is coming from Windows. If you set your brightness %50 in Windows. Your macOS level is %50 | ⚠️
 HDMI | Beacuse it connected to RTX2060 | ❌
 Airdrop, Sidecar | Beacuse Intel Wi-Fi Doesn't Support | ❌
 
-# What's you have to do  💻
+## What's you have to do  💻
 Type | Info | Status
 :---------|:---------|:----------
 SMBIOS Settings  | With OpenCore Configurator you should definitely set your SMBIOS settings and ROM value because the config does not contain SMBIOS information MacBook Pro 16.4. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
