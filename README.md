@@ -50,7 +50,7 @@ Wi-Fi             | Intel AX201 Wi-Fi 6 (802.11ax) | ✅
 Ethernet          | Realtek RTL8111 | ✅
 Audio       | Realtek ALC 257 | ✅
 
-## Update History
+## macOS Update History
 - ✅ macOS Monterey 12.0.1
 - ✅ macOS Big Sur 11.6.1
 - ✅ macOS Big Sur 11.0.1
