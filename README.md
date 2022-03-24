@@ -22,8 +22,17 @@
 <a href="https://www.paypal.com/paypalme/sevenpay">
   <img src="https://img.shields.io/badge/-@sevenpay-2CA5E0?logo=PayPal&logoColor=red" width="140"/> </a>
 
-## Screenshots 📷
+## Contents
+  - [Screenshots](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#screenshots-)
+  - [Original Hardware](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#original-hardware--)
+  - [macOS Update History](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#macos-update-history)
+  - [What's working](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-working--)
+  - [What's not working](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-not-working--)
+  - [What's you have to do](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-you-have-to-do--)
+  - [Credits](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#credits)
+  - [Donate](https://github.com/yusufklncc/yusfklncc/blob/main/Donate%20-%20Bağış.md)
 
+## Screenshots 📷
 
 ### Big Sur</summary>
   <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/macOS/macOS%20Big%20Sur.png">
