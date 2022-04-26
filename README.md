@@ -82,7 +82,7 @@ Airdrop, Sidecar | Beacuse Intel Wi-Fi Doesn't Support | ❌
 ## What's you have to do  💻
 Type | Info | Status
 :---------|:---------|:----------
-SMBIOS Settings  | With OpenCore Configurator you should definitely set your SMBIOS settings and ROM value because the config does not contain SMBIOS information MacBook Pro 16.4. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
+SMBIOS Settings  | With GenSMBIOS you should definitely set your SMBIOS settings and ROM value because the config does not contain SMBIOS information MacBook Pro 16.4. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
 
 ## Kext Used 
  
