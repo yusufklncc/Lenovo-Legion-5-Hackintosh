@@ -34,6 +34,31 @@
 
 ## Screenshots 📷
 
+### CPU Usage and Temperature  
+- Normal
+
+  <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Normal%20CPU%20Frequency%20and%20Temperature.png" width="300">
+  <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Normal%20CPU%20Usage.png" width="400">
+  
+- Maximum
+
+  <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Max%20CPU%20Frequency%20and%20Temperature.png" width="300">
+  <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Max%20CPU%20Usage.png" width="400">  
+  
+### Geekbenck
+- CPU
+  - <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/CPU%20Geekbench.png" width="300">
+  - browser.geekbench.com/v5/cpu/14625598
+  
+  
+- OpenCL
+  - <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/OpenCL.png" width="300">
+  - browser.geekbench.com/v5/compute/4746733
+  
+- Metal
+  - <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Metal.png" width="300">
+  - browser.geekbench.com/v5/compute/4746748
+  
 ### Big Sur</summary>
   <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/macOS/macOS%20Big%20Sur.png">
  
