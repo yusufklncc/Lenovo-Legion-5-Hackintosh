@@ -61,8 +61,12 @@
   - <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Metal.png" width="500">
   - browser.geekbench.com/v5/compute/4746748
   
-### Big Sur</summary>
+<details>
+<summary>Big Sur</summary>
+<p align="center">
   <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/macOS/macOS%20Big%20Sur.png">
+</p>
+</details>
  
 ## Original Hardware  💻
 
