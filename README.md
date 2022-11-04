@@ -8,9 +8,9 @@
 
 <p align="center">
 <a href="https://www.apple.com/macos/monterey/">
-  <img src="https://img.shields.io/badge/macOS-Monterey_v12.3-blue" width="215"/> </a>
+  <img src="https://img.shields.io/badge/macOS-Monterey_v12.6.1-blue" width="215"/> </a>
 <a href="https://github.com/acidanthera/OpenCorePkg/releases">
-  <img src="https://img.shields.io/badge/OpenCore-0.7.9-9cf" width="155"/> </a>
+  <img src="https://img.shields.io/badge/OpenCore-0.8.5-9cf" width="155"/> </a>
 <a href="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/releases">
   <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="115"/> </a>
 </p>
@@ -29,6 +29,8 @@
   - [What's working](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-working--)
   - [What's not working](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-not-working--)
   - [What's you have to do](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-you-have-to-do--)
+  - [Kexts Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#kexts-used--)
+  - [SSDTs Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#ssdts-used--)
   - [Credits](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#credits)
   - [Donate](https://github.com/yusufklncc/yusfklncc/blob/main/Donate%20-%20Bağış.md)
 
@@ -45,7 +47,7 @@
   <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Max%20CPU%20Frequency%20and%20Temperature.png" width="300">
   <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Max%20CPU%20Usage.png" width="400">  
   
-### Geekbenck
+### Geekbench
 - CPU
   - <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/CPU%20Geekbench.png" width="500">
   - browser.geekbench.com/v5/cpu/14625598
@@ -68,14 +70,15 @@ Type | Spec | Status
 :---------|:---------|:----------
 Model Name      | Lenovo Legion 5 15IMH05H | ✅
 CPU              | Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz Comet Lake | ✅
-External Graphics Card | NVIDIA GeForce RTX 2060 | ❌
 RAM           | 16 GB 2933 MHz DDR4 | ✅
 Internal Graphics Card | Intel(R) UHD Graphics 630 (1 GB) | ✅
+External Graphics Card | NVIDIA GeForce RTX 2060 | ❌
 Wi-Fi             | Intel AX201 Wi-Fi 6 (802.11ax) | ✅
 Ethernet          | Realtek RTL8111 | ✅
 Audio       | Realtek ALC 257 | ✅
 
 ## macOS Update History
+- ✅ macOS Monterey 12.6
 - ✅ macOS Monterey 12.0.1
 - ✅ macOS Big Sur 11.6.1
 - ✅ macOS Big Sur 11.0.1
@@ -107,7 +110,7 @@ Airdrop, Sidecar | Beacuse Intel Wi-Fi Doesn't Support | ❌
 ## What's you have to do  💻
 Type | Info | Status
 :---------|:---------|:----------
-SMBIOS Settings  | With GenSMBIOS you should definitely set your SMBIOS settings and ROM value because the config does not contain SMBIOS information MacBook Pro 16.4. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
+SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS settings and ROM value for iCloud and Apple services. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
 
 ## Kext Used 
  
@@ -120,9 +123,9 @@ Kext | Info
 [SMCProcessor](https://github.com/acidanthera/VirtualSMC) | Processor Temp Monitoring.
 [AppleALC](https://github.com/acidanthera/AppleALC) | An open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications.
 [VerbStub](https://github.com/hackintosh-stuff/ComboJack) | Fixes jack headphone audio and microphone.
-[USBPortst](https://www.youtube.com/watch?v=rlTDHkPzjAk&t=654s) | Kext to inject mapped USB Ports.
+[USBPorts](https://www.youtube.com/watch?v=rlTDHkPzjAk&t=654s) | Kext to inject mapped USB Ports.
 [USBWakeFixup](https://github.com/osy/USBWakeFixup) | This extension is a workaround for that issue by creating a fake ACPI device with the right wakeup params.
-[CPUFriendt](https://github.com/acidanthera/CPUFriend) | A Lilu plug-in for dynamic power management data injection.
+[CPUFriend](https://github.com/acidanthera/CPUFriend) | A Lilu plug-in for dynamic power management data injection.
 [CPUFriendDataProvider](https://github.com/acidanthera/CPUFriend) | A CPUFriend plug-in for CPU power management.
 [NVMeFix](https://github.com/acidanthera/NVMeFix) | NVMeFix is a set of patches for the Apple NVMe storage driver, IONVMeFamily.
 [RestrictEvents](https://github.com/acidanthera/RestrictEvents) | Lilu Kernel extension for blocking unwanted processes causing compatibility issues on different hardware and unlocking the support for certain features restricted to other hardware.
@@ -131,9 +134,10 @@ Kext | Info
 [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X) | OS X open source driver for the Realtek RTL8111/8168 family.
 [AirportItlwm](https://github.com/OpenIntelWireless/itlwm) | An Intel Wi-Fi Adapter Kernel Extension for macOS.
 [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | Kernel Extension that uploads Intel Wireless Bluetooth Firmware to provide native Bluetooth in macOS.
+[BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM) | Injecting bluetooth firmware on Monterey+.
 [HibernationFixup](https://github.com/acidanthera/HibernationFixup) | An open source kernel extension providing a sync between RTC variables and NVRAM.
 [FeatureUnlock](https://github.com/acidanthera/FeatureUnlock) | Lilu Kernel extension for enabling: Sidecar, NightShift, AirPlay to Mac, Universal Control.
-ControlMonitorHz.kext | This kext just for this PC.
+[ControlMonitorHz] | 144Hz screen option just for this PC. 
   
 ## SSDT Used
   
