@@ -29,6 +29,8 @@
   - [What's working](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-working--)
   - [What's not working](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-not-working--)
   - [What's you have to do](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-you-have-to-do--)
+  - [Disable NVIDIA Card](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/README.md#disable-nvidia-card)
+  - [How to use 144Hz?](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/README.md#how-to-use-144hz)
   - [Kexts Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#kexts-used)
   - [SSDTs Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#ssdts-used)
   - [Credits](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#credits)
@@ -116,6 +118,11 @@ Type | Info | Status
 :---------|:---------|:----------
 SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS settings and ROM value for iCloud and Apple services. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
 
+  
+## Disable NVIDIA Card
+  - Erase ## values config/DeviceProperties -> PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0) 
+  
+  
 ## How to use 144Hz?
   - Enable config/Kernel/Add -> ControlHZ and restart.
 
