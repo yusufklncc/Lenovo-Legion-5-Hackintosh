@@ -116,6 +116,10 @@ Type | Info | Status
 :---------|:---------|:----------
 SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS settings and ROM value for iCloud and Apple services. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
 
+## How to use 144Hz?
+  - Enable config/Kernel/Add -> ControlHZ and restart.
+
+
 ## Kexts Used 
  
 Kext | Info 
