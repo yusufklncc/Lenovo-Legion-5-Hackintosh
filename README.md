@@ -1,7 +1,7 @@
 <h1 align="center"> macOS on Lenovo Legion 5 15IMH05H </h1>
 
 <p align="center">
-  <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/macOS%20Lenovo%20Legion%205.png">
+  <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Legion%205.png" alt="Legion 5">
 </p>
 
 <h4 align="center"> OpenCore config for Hackintosh Lenovo Legion 5 15IMH05H </h4>
@@ -29,10 +29,10 @@
   - [What's working](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-working--)
   - [What's not working](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-not-working--)
   - [What's you have to do](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-you-have-to-do--)
-  - [Kexts Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#kexts-used)
-  - [SSDTs Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#ssdts-used)
+  - [Kexts Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#kexts-used--)
+  - [SSDTs Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#ssdts-used--)
   - [Credits](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#credits)
-  - [Donate](https://github.com/yusufklncc/yusfklncc/blob/main/Donate%20-%20Bağış.md)
+  - [Donate](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#-donate---ba%C4%9F%C4%B1%C5%9F-)
 
 ## Screenshots 📷
 
@@ -116,7 +116,7 @@ Type | Info | Status
 :---------|:---------|:----------
 SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS settings and ROM value for iCloud and Apple services. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
 
-## Kexts Used 
+## Kext Used 
  
 Kext | Info 
 :---------|:---------
@@ -143,7 +143,7 @@ Kext | Info
 [FeatureUnlock](https://github.com/acidanthera/FeatureUnlock) | Lilu Kernel extension for enabling: Sidecar, NightShift, AirPlay to Mac, Universal Control.
 [ControlMonitorHz] | 144Hz screen option just for this PC. 
   
-## SSDTs Used
+## SSDT Used
   
 SSDT | Info | Status
 :---------|:---------|:---------
