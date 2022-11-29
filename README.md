@@ -8,9 +8,9 @@
 
 <p align="center">
 <a href="https://www.apple.com/macos/ventura/">
-  <img src="https://img.shields.io/badge/macOS-Ventura%2013.0-orange" width="197"/> </a>
+  <img src="https://img.shields.io/badge/macOS-Ventura%2013.0.1-orange" width="197"/> </a>
 <a href="https://github.com/acidanthera/OpenCorePkg/releases">
-  <img src="https://img.shields.io/badge/OpenCore-0.8.5-9cf" width="155"/> </a>
+  <img src="https://img.shields.io/badge/OpenCore-0.8.6-9cf" width="155"/> </a>
 <a href="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/releases">
   <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="115"/> </a>
 <a href="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/issues"> 
@@ -34,7 +34,6 @@
   - [What's not working](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-not-working--)
   - [What's you have to do](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-you-have-to-do--)
   - [Disable NVIDIA Card](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/README.md#disable-nvidia-card)
-  - [How to use 144Hz?](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/README.md#how-to-use-144hz)
   - [Kexts Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#kexts-used)
   - [SSDTs Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#ssdts-used)
   - [Credits](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#credits)
@@ -127,10 +126,6 @@ SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS settin
 ## Disable NVIDIA Card
   - Erase ## values config/DeviceProperties -> PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0) 
   
-  
-## How to use 144Hz?
-  - Enable config/Kernel/Add -> ControlHZ and restart.
-
 
 ## Kexts Used 
  
