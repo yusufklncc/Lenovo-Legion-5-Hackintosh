@@ -10,7 +10,7 @@
 <a href="https://www.apple.com/macos/ventura/">
   <img src="https://img.shields.io/badge/macOS-Ventura%2013.0.1-orange" width="197"/> </a>
 <a href="https://github.com/acidanthera/OpenCorePkg/releases">
-  <img src="https://img.shields.io/badge/OpenCore-0.8.6-9cf" width="155"/> </a>
+  <img src="https://img.shields.io/badge/OpenCore-0.9.0-9cf" width="155"/> </a>
 <a href="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/releases">
   <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="115"/> </a>
 <a href="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/issues"> 
