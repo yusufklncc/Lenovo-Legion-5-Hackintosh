@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://www.apple.com/macos/ventura/">
-  <img src="https://img.shields.io/badge/macOS-Ventura-orange" width="197"/> </a>
+  <img src="https://img.shields.io/badge/macOS-Ventura-orange" width="165"/> </a>
 <a href="https://github.com/acidanthera/OpenCorePkg/releases">
   <img src="https://img.shields.io/badge/OpenCore-0.9.1-9cf" width="155"/> </a>
 <a href="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/releases">
