@@ -1,7 +1,7 @@
 <h1 align="center"> macOS on Lenovo Legion 5 15IMH05H </h1>
 
 <p align="center">
-  <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/macOS%20Lenovo%20Legion%205.png">
+  <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/macOS%20Lenovo%20Legion%205.png" width="160"/>
 </p>
 
 <h4 align="center"> OpenCore config for Hackintosh Lenovo Legion 5 15IMH05H </h4>
