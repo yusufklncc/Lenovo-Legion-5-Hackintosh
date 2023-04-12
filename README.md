@@ -124,7 +124,7 @@ SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS settin
 
   
 ## Disable NVIDIA Card
-  - Erase ## values config/DeviceProperties -> PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0) 
+  - Erase # character from config/DeviceProperties -> PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0) 
   
 
 ## Kexts Used 
