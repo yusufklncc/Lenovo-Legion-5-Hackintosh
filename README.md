@@ -18,11 +18,11 @@
 </p>
 <p align="center">
 <a href="https://t.me/yusufklncc">
-  <img src="https://img.shields.io/badge/-@yusufklncc-2CA5E0?logo=Telegram&logoColor=blue" width="150"/> </a>
+  <img src="https://img.shields.io/badge/-@yusufklncc-2CA5E0?logo=Telegram&logoColor=white" width="150"/> </a>
 <a href="https://www.youtube.com/c/yusufklncc">
   <img src="https://img.shields.io/badge/-@yusufklncc-red?logo=YouTube&logoColor=white" width="150"/> </a>
 <a href="https://www.paypal.com/paypalme/sevenpay">
-  <img src="https://img.shields.io/badge/-@sevenpay-2CA5E0?logo=PayPal&logoColor=red" width="140"/> </a>
+  <img src="https://img.shields.io/badge/-@sevenpay-white?logo=PayPal&logoColor=blue" width="140"/> </a>
 <a href="https://www.buymeacoffee.com/yusufklncc">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="150"/> </a>
 
