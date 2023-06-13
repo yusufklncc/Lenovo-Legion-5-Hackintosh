@@ -7,8 +7,8 @@
 <h4 align="center"> OpenCore config for Hackintosh Lenovo Legion 5 15IMH05H </h4>
 
 <p align="center">
-<a href="https://www.apple.com/macos/ventura/">
-  <img src="https://img.shields.io/badge/macOS-Sonoma-green" width="160"/> </a>
+<a href="https://www.apple.com/macos/sonoma-preview/">
+  <img src="https://img.shields.io/badge/macOS-Sonoma-" width="160"/> </a>
 <a href="https://github.com/acidanthera/OpenCorePkg/releases">
   <img src="https://img.shields.io/badge/OpenCore-0.9.3-9cf" width="155"/> </a>
 <a href="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/releases">
