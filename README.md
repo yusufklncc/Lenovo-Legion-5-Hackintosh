@@ -183,9 +183,7 @@ SSDT | Info | Status
 boot-arg | Info
 :---------|:---------
 -v | Enables verbose.
--no_compat_check | macOS Sonoma not support MBP14,1. So we have to use this argument for boot Sonoma.
-brcmfx-country=#a | Changes the country code to XX (US, CN, #a, ..)
-darkwake=0 | Disables darkwake.
+darkwake=2 | Disables darkwake.
 swd_panic=1 | Avoids issue where going to sleep results in a reboot
 -noDC9 | Fixes sleep issues.
 -lilubetaall | Required for macOS Sonoma right now.
