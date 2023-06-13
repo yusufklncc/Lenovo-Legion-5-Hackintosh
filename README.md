@@ -35,6 +35,7 @@
   - [What's you have to do](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-you-have-to-do--)
   - [Kexts Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#kexts-used)
   - [SSDTs Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#ssdts-used)
+  - [boot-args Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#boot-args-used)
   - [Installation](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#installation-steps)
   - [Credits](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#credits)
   - [Donate](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#-donate---ba%C4%9F%C4%B1%C5%9F-)
