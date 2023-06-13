@@ -32,7 +32,6 @@
   - [macOS Update History](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#macos-update-history)
   - [What's working](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-working--)
   - [What's not working](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-not-working--)
-  - [What's you have to do](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#whats-you-have-to-do--)
   - [Kexts Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#kexts-used)
   - [SSDTs Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#ssdts-used)
   - [boot-args Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#boot-args-used)
@@ -119,11 +118,6 @@ Type | Info | Status
 :---------|:---------|:---------
 HDMI | Beacuse it connected to RTX2060 | ❌
 Airdrop, Sidecar | Beacuse Intel Wi-Fi Doesn't Support | ❌
-
-## What's you have to do  💻
-Type | Status
-:---------|:---------
-Follow [macOS Installation steps](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#installation-steps)  | ⚠️ 
 
 ## Kexts Used 
  
