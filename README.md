@@ -221,7 +221,9 @@ swd_panic=1 | Avoids issue where going to sleep results in a reboot
   - Before you start, reset your BIOS settings to default.
   - `Disable`
     - Secure Boot
-    - Intel Thermal Framework
+    - Intel Thermal Framework (DPTF)
+  - `Graphic Device`
+    - Dynamic Graphics
     
 ### Installation
 - Now let's turn off our computer and boot from USB. Choose the `Install macOS Monterey` (whatever you have) option on OpenCore menu and go to the installation screen.
