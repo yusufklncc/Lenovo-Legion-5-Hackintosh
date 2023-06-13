@@ -37,7 +37,7 @@
   - [SSDTs Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#ssdts-used)
   - [boot-args Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#boot-args-used)
   - [macOS Installation](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#macos-installation)
-  - [macOS Post Installation](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#macos-post-installation)
+  - [macOS Post Installation](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#post-installation)
   - [Credits](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#credits)
   - [Donate](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#-donate---ba%C4%9F%C4%B1%C5%9F-)
 
