@@ -36,7 +36,8 @@
   - [Kexts Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#kexts-used)
   - [SSDTs Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#ssdts-used)
   - [boot-args Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#boot-args-used)
-  - [Installation](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#installation-steps)
+  - [macOS Installation](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#macos-installation)
+  - [macOS Post Installation](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#macos-post-installation)
   - [Credits](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#credits)
   - [Donate](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#-donate---ba%C4%9F%C4%B1%C5%9F-)
 
@@ -189,7 +190,7 @@ swd_panic=1 | Avoids issue where going to sleep results in a reboot
 -noDC9 | Fixes sleep issues.
 -lilubetaall | Required for macOS Sonoma right now.
 
-## Installation Steps
+## macOS Installation
 
 ### Downloading OSX Image
 
@@ -257,7 +258,7 @@ swd_panic=1 | Avoids issue where going to sleep results in a reboot
   - Now we can see `Desktop`.
   - <img src="https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh/blob/main/Images/Installation/macOS%2017.png">
   
-### macOS Post Installation Steps
+### macOS Post Installation
 - Open config file with `Text Edit`.
   - Search `HideAuxiliary` and change `false` value to `true`.
   - Search `SecureBootModel` and change `Disabled` value to `Default`.
