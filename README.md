@@ -121,7 +121,7 @@ Airdrop, Sidecar | Beacuse Intel Wi-Fi Doesn't Support | ❌
 ## What's you have to do  💻
 Type | Status
 :---------|:---------
-Follow macOS Post Installation step  | ⚠️ 
+Follow macOS Installation steps  | ⚠️ 
 
 ## Kexts Used 
  
