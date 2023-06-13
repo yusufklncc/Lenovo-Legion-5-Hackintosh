@@ -35,8 +35,7 @@
   - [Kexts Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#kexts-used)
   - [SSDTs Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#ssdts-used)
   - [boot-args Used](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#boot-args-used)
-  - [macOS Installation](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#macos-installation)
-  - [macOS Post Installation](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#post-installation)
+  - [Installation Steps](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#installation-steps)
   - [Credits](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#credits)
   - [Donate](https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh#-donate---ba%C4%9F%C4%B1%C5%9F-)
 
@@ -75,7 +74,6 @@
 </details>
  
 ## Original Hardware  💻
-
 Type | Spec | Status
 :---------|:---------|:----------
 Model Name      | Lenovo Legion 5 15IMH05H | ✅
@@ -120,7 +118,6 @@ HDMI | Beacuse it connected to RTX2060 | ❌
 Airdrop, Sidecar | Beacuse Intel Wi-Fi Doesn't Support | ❌
 
 ## Kexts Used 
- 
 Kext | Info | MinKernel | MaxKernel
 :---------|:---------|:---------|:---------
 [Lilu](https://github.com/acidanthera/Lilu) | An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS. | 8.0.0 |  
@@ -151,7 +148,6 @@ Kext | Info | MinKernel | MaxKernel
 [USBPorts](https://www.youtube.com/watch?v=rlTDHkPzjAk&t=654s) | Kext to inject mapped USB Ports. |  |  
 
 ## SSDTs Used
-  
 SSDT | Info | Status
 :---------|:---------|:---------
 [SSDT-PTSWAK](https://github.com/5T33Z0/OC-Little-Translated/tree/main/04_Fixing_Sleep_and_Wake_Issues/PTSWAK_Sleep_and_Wake_Fix) | Comprehensive Sleep and Wake Patch. | Functional
@@ -184,10 +180,9 @@ swd_panic=1 | Avoids issue where going to sleep results in a reboot
 -noDC9 | Fixes sleep issues.
 -lilubetaall | Required for macOS Sonoma right now.
 
-## macOS Installation
+## Installation Steps
 
 ### Downloading OSX Image
-
 - Click to OneDrive link and download it.
   - [Ventura](https://github.com/yusufklncc/Hackintosh-for-All-Computers#-macos-ventura-)
   - [Monterey](https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-monterey)
@@ -195,7 +190,6 @@ swd_panic=1 | Avoids issue where going to sleep results in a reboot
   - [Catalina](https://github.com/yusufklncc/Hackintosh-for-All-Computers#macos-catalina)
   
 ### Writing OSX Image
-
 - Unzip the zip file to desktop.
 - Download [balenaEtcher](https://www.balena.io/etcher/).
 - Open program and click to `Flash from file`.
@@ -208,7 +202,6 @@ swd_panic=1 | Avoids issue where going to sleep results in a reboot
 - When writing is finished, `remove` the USB stick and plug it back in.
 
 ### Setting EFI Folder
-
 - When you plug USB back, you can see EFI partition in "My Computer"
 - Open EFI partition.
 - Delete default files.
@@ -217,7 +210,6 @@ swd_panic=1 | Avoids issue where going to sleep results in a reboot
 - Now you can boot from USB.
 
 ### Setting BIOS Settings 
-
   - Before you start, reset your BIOS settings to default.
   - `Disable`
     - Secure Boot
@@ -225,7 +217,7 @@ swd_panic=1 | Avoids issue where going to sleep results in a reboot
   - `Graphic Device`
     - Dynamic Graphics
     
-### Installation
+### macOS Installation
 - Now let's turn off our computer and boot from USB. Choose the `Install macOS Monterey` (whatever you have) option on OpenCore menu and go to the installation screen.
 - <img src="https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh/blob/main/Images/Installation/macOS%201.png">
 - What to do on the following screens:
