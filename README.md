@@ -229,7 +229,7 @@ swd_panic=1 | Avoids issue where going to sleep results in a reboot
     - Secure Boot
     - Intel Thermal Framework
     
-### macOS Installation Steps
+### Installation
 - Now let's turn off our computer and boot from USB. Choose the `Install macOS Monterey` (whatever you have) option on OpenCore menu and go to the installation screen.
 - <img src="https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh/blob/main/Images/Installation/macOS%201.png">
 - What to do on the following screens:
@@ -258,7 +258,7 @@ swd_panic=1 | Avoids issue where going to sleep results in a reboot
   - Now we can see `Desktop`.
   - <img src="https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh/blob/main/Images/Installation/macOS%2017.png">
   
-### macOS Post Installation
+### Post Installation
 - Open config file with `Text Edit`.
   - Search `HideAuxiliary` and change `false` value to `true`.
   - Search `SecureBootModel` and change `Disabled` value to `Default`.
