@@ -84,8 +84,8 @@ RAM           | 16 GB 2933 MHz DDR4 | ✅
 Internal Graphics Card | Intel(R) UHD Graphics 630 (1 GB) | ✅
 External Graphics Card | NVIDIA GeForce RTX 2060 | ❌
 Wi-Fi             | Intel AX201 Wi-Fi 6 (802.11ax) | ✅
-Ethernet          | Realtek RTL8111 | ✅
-Audio       | Realtek ALC 257 | ✅
+Ethernet          | Realtek RTL8111H | ✅
+Audio       | Realtek ALC257 | ✅
 
 ## macOS Update History
 - ✅ macOS Sonoma 14.0 (not tested)
