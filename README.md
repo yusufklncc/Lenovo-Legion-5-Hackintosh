@@ -260,7 +260,7 @@ swd_panic=1 | Avoids issue where going to sleep results in a reboot
 - Open config file with `Text Edit`.
   - Search `HideAuxiliary` and change `false` value to `true`.
   - Search `SecureBootModel` and change `Disabled` value to `Default`.
-  - Search `boot-args` and delete `-v debug=0x100 keepsyms=1` arguments.
+  - Search `boot-args` and delete `-v` argument.
 - Now we have to set our serial numbers and ROM value.
   - Download [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS/archive/refs/heads/master.zip) and open .command file. If program asks `Download Python` download it. After that select option 3.
   - <img src="https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh/blob/main/Images/GenSMBIOS/GenSMBIOS%201.png">
