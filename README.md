@@ -201,9 +201,9 @@ swd_panic=1 | Avoids issue where going to sleep results in a reboot
 ### Writing OSX Image
 
 - Unzip the zip file to desktop.
-- Download balenaEtcher from this link https://www.balena.io/etcher/
-- Open program and click to `Flash from file`
-- Select the OSX image `(.raw file)` from the popup window.
+- Download [balenaEtcher](https://www.balena.io/etcher/).
+- Open program and click to `Flash from file`.
+- Select the OSX image `.raw` file from the popup window.
 - Click to `Select target` and select OSX image.
 - Click to `Flash!` and allow app in popup window.
 <p align="center">
