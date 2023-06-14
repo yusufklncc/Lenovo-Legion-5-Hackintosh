@@ -55,16 +55,12 @@
 ### Geekbench
 - CPU
   - <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/CPU%20Geekbench.png" width="500">
-  - browser.geekbench.com/v5/cpu/14625598
-  
   
 - OpenCL
   - <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/OpenCL.png" width="500">
-  - browser.geekbench.com/v5/compute/4746733
   
 - Metal
   - <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Metal.png" width="500">
-  - browser.geekbench.com/v5/compute/4746748
   
 <details>
 <summary>Big Sur</summary>
