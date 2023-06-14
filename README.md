@@ -94,7 +94,7 @@ Turbo boost and CPU frequency stage |  ✅
 Intel UHD Graphics 630              |  ✅  
 Brightness control              |  ✅  
 Audio Realtek ALC 257 - layout-id: 11            |  ✅  
-Realtek Ethernet RTL8111            |  ✅  
+Realtek Ethernet RTL8111H            |  ✅  
 Intel AX201 Wi-Fi and Bluetooth, Handoff, iMessage...         |  ✅  
 USB 3.0 and Type-C (with Port Map)        |  ✅  
 Touchpad (14 gestures are working)   |  ✅  
