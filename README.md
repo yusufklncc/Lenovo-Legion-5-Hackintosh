@@ -47,7 +47,7 @@
   <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Normal%20CPU%20Frequency%20and%20Temperature.png" width="300">
   <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Normal%20CPU%20Usage.png" width="400">
   
-- Maximum
+- While Geekbench
 
   <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Max%20CPU%20Frequency%20and%20Temperature.png" width="300">
   <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Max%20CPU%20Usage.png" width="400">  
