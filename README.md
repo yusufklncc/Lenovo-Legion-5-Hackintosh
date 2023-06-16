@@ -169,7 +169,7 @@ SSDT | Info | Status
 boot-arg | Info
 :---------|:---------
 -v | Enables verbose.
-darkwake=2 | Disables darkwake.
+darkwake=2 | 
 swd_panic=1 | Avoids issue where going to sleep results in a reboot
 -noDC9 | Fixes sleep issues.
 -lilubetaall | Required for macOS Sonoma right now.
