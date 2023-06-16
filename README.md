@@ -81,11 +81,9 @@ Audio       | Realtek ALC257 | ✅
 
 ## macOS Update History
 - ✅ macOS Sonoma 14.0 (not tested)
-- ✅ macOS Ventura 13.0
-- ✅ macOS Monterey 12.6
-- ✅ macOS Monterey 12.0.1
-- ✅ macOS Big Sur 11.6.1
-- ✅ macOS Big Sur 11.0.1
+- ✅ macOS Ventura 13.4
+- ✅ macOS Monterey
+- ✅ macOS Big Sur
 
 ## What's working  💻
 Type | Status
